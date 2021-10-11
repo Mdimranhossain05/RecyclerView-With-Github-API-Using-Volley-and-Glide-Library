@@ -1,4 +1,4 @@
-Basically this app will first fetch ]user data from github api (https://api.github.com/users)
+Basically this app fetches user data from github api (https://api.github.com/users)
 
 This is the first page: 
 
